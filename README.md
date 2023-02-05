@@ -6,8 +6,7 @@
 
 
 ### PROJECT DESCRIPTION
-This is a personal gallery application that allows you to display your photos for others to see.
-This application is accessible to users on both desktop and mobile formats. 
+This is a card design using Html and Css with hover effects.
 
 
 ### :pushpin:PROJECT SETUP INSTRUCTIONS
